@@ -1,4 +1,4 @@
-name: Build Kernel Arch Google Pixel 9 Series (Official A15) with KSU and SUSFS
+name: Build Kernel Arch Google Pixel 5 Series (EvolutionX A15) with KSU and SUSFS
 on:
   workflow_call:
   workflow_dispatch:
